@@ -1,0 +1,13 @@
+# Virtual Environments
+*\env
+
+# Quarto
+*.html
+*.pdf
+*\01_Periodic_Table_files
+*\02_Units_Conversion_files
+*\03_Linear_Regression_files
+*\04_EDOs_files
+
+# Private
+# update.txt
