@@ -1,0 +1,5 @@
+tipo,catalisador,aplicacao,custo_usd_1000_por_L
+PFR,Ni/Al2O3,Hidrogenação,0.35
+CSTR,Pt/SiO2,Oxidação,1.2
+Contínuo de Leito Fixo,Zeólita Y,Craqueamento,0.8
+Contínuo de Leito Fluidizado,Fe-Cr,Reforma a vapor,0.5
